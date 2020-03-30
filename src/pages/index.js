@@ -1,3 +1,19 @@
 import React from "react"
+//import {Link} from "gatsby";
 
-export default () => <div>Hello world!</div>
+class App extends React.Component{
+  constructor(){
+    super()
+  }
+  render(){
+    return(
+      <div>
+        Lol
+        
+      </div>
+    );
+  }
+}
+
+
+export default App;
